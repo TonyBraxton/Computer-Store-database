@@ -1,0 +1,14 @@
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\bin\Debug\dataBaseApp_PRG455 project.exe.config
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\bin\Debug\dataBaseApp_PRG455 project.exe
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\bin\Debug\dataBaseApp_PRG455 project.pdb
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.csproj.AssemblyReference.cache
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455_project.Form1.resources
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455_project.Properties.Resources.resources
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.csproj.GenerateResource.cache
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.exe
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455 project.pdb
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455_project.displayForm.resources
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455_project.Receipt.resources
+C:\Users\OWNER\Semester 4\PRG455\PRG Project\dataBaseApp_PRG455 project\obj\Debug\dataBaseApp_PRG455_project.TransactionForm.resources
